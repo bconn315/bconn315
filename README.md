@@ -10,3 +10,4 @@
 
 [<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail.svg" />][gmail]
 [<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\031-linkedin.svg" />][linkedin]
+<br />
