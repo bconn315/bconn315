@@ -11,3 +11,6 @@
 [<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail.svg" />][gmail]
 [<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\031-linkedin.svg" />][linkedin]
 <br />
+
+[linkedin]: https://www.linkedin.com/in/bryan--conn/
+[gmail]: https://mail.google.com/mail/u/0/?fs=1&to=bconn315@gmail.com&su=SUBJECT&body=BODY&tf=cm
