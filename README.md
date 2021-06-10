@@ -1,6 +1,6 @@
-### Hello! 👋 I am Bryan Conn, a Data Scientist from Fort Worth, Tx
+## Hello! 👋 I am Bryan Conn, a Data Scientist from Fort Worth, Tx
 
-## Computer Enthusiast, Analytical Thinker, and Visual Builder
+### Computer Enthusiast, Analytical Thinker, and Visual Builder
 
 - 🧠 I’m currently learning computer engineering at Lambda School
 - ⚡ Goals: Finish Lamba School and begin a new career in data science
@@ -8,7 +8,7 @@
 
 ---
 
-## How to contact me:
+### How to contact me:
 
 [<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail.svg" />][gmail]
 [<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\031-linkedin.svg" />][linkedin]
@@ -21,7 +21,7 @@
 
 <!-- Skill Badges -->
 
-## Area of Skills and Interests
+### Area of Skills and Interests
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
